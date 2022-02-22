@@ -1,0 +1,160 @@
+{
+    "products" : [
+            
+            {
+                "id": 1,
+                "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "price": 109.95,
+                "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+                "category": "men's clothing",
+                "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+            },
+            {
+                "id": 2,
+                "title": "Mens Casual Premium Slim Fit T-Shirts ",
+                "price": 22.3,
+                "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+                "category": "men's clothing",
+                "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+            },
+            {
+                "id": 3,
+                "title": "Mens Cotton Jacket",
+                "price": 55.99,
+                "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+                "category": "men's clothing",
+                "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+            },
+            {
+                "id": 4,
+                "title": "Mens Casual Slim Fit",
+                "price": 15.99,
+                "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+                "category": "men's clothing",
+                "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+            },
+            {
+                "id": 5,
+                "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+                "price": 695,
+                "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+                "category": "jewelery",
+                "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+            }
+    ],
+    "students" : [
+
+        {
+            "roll"        : 1,
+            "name"        : "Md Saikat",
+            "age"         : 15, 
+            "location"    : "JIbonpur",
+            "gender"      : "Male",
+            "bn"          : 87,
+            "en"          : 90, 
+            "math"        : 78,
+            "s"           : 87, 
+            "ss"          : 23, 
+            "rel"         : 95,
+            "image"       : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbKtsJDFh8WVqq0deNDCMbzh02mtq7vH04Ng&usqp=CAU"
+        },
+        {
+            "roll"        : 2,
+            "name"        : "Md Srabon",
+            "age"         : 14, 
+            "location"    : "Majhina",
+            "gender"      : "Male",
+            "bn"          : 67,
+            "en"          : 40, 
+            "math"        : 78,
+            "s"           : 87, 
+            "ss"          : 90, 
+            "rel"         : 80,
+            "image"       : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTacNUMyMgxdYf7lnm-ysInSJg7RFeB6o7BxIzr59rOZecFrGR1QClvNI3Pim42LIldh1c&usqp=CAU"
+        },
+        {
+            "roll"        : 3,
+            "name"        : "Md Sifat",
+            "age"         : 15, 
+            "location"    : "Angra",
+            "gender"      : "Male",
+            "bn"          : 20,
+            "en"          : 90, 
+            "math"        : 78,
+            "s"           : 87, 
+            "ss"          : 23, 
+            "rel"         : 40,
+            "image"       : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEAg73lyPAdTFYB8PwG_PTT2dpvg8pk65nOA&usqp=CAU"
+        },
+        {
+            "roll"        : 4,
+            "name"        : "Md Ismail",
+            "age"         : 17, 
+            "location"    : "Jibonpur",
+            "gender"      : "Male",
+            "bn"          : 67,
+            "en"          : 90, 
+            "math"        : 78,
+            "s"           : 87, 
+            "ss"          : 95, 
+            "rel"         : 80,
+            "image"       : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZZneDd4anaHRUJzjljdr9qGCRof1WFnNjQ&usqp=CAU"
+        },
+        {
+            "roll"        : 5,
+            "name"        : "Md Sabbir",
+            "age"         : 16, 
+            "location"    : "Jibonpur",
+            "gender"      : "Male",
+            "bn"          : 67,
+            "en"          : 40, 
+            "math"        : 28,
+            "s"           : 87, 
+            "ss"          : 90, 
+            "rel"         : 80,
+            "image"       : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9gp-_ECxjxKvd9UosODbT3mw2JV9_M_2Qwg&usqp=CAU"
+        }
+    ],
+    "devs" : [
+
+        {
+            "id"          : 1,
+            "name"        : "Md Ismail",
+            "age"         : 60,
+            "skill"       : "MERN stack",
+            "location"    : "Jibonpur",
+            "income"      : 1000,
+            "gender"      : "male",
+            "image"       : "https://www.lfwf.io/uploads/studentProfile/1638732225.png"
+        },
+        {
+            "id"          : 2,
+            "name"        : "Md Saikat",
+            "age"         : 50,
+            "skill"       : "Laravel",
+            "location"    : "Panchbibi",
+            "income"      : 950,
+            "gender"      : "male",
+            "image"       : "https://lh3.googleusercontent.com/proxy/ZFXVso4os_lK1qkgdFvCNX1Dk9A9_N3bQ35pP3-DKQJSQmvgxvQVngmmKeGXgoYFO9onB36IWwbrF4SiXq-cf3Uq_Ws-hnSGtLgWF06dENgNIpqAspM-HO6jYaLKNc1bFxGP7sBNTjZHaLshw3VbkgyINpKdXdzZ"
+        },
+        {
+            "id"          : 3,
+            "name"        : "Md NAimul",
+            "age"         : 20,
+            "skill"       : "Django",
+            "location"    : "Joypurhat",
+            "income"      : 900,
+            "gender"      : "male",
+            "image"       : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNSPfiI_c7w35OP_l6Uuj3_rOp0XrACdFnpnvXGr0NU_CErpyUzv-oblaPoFEJj70AI4E&usqp=CAU"
+        },
+        {
+            "id"          : 4,
+            "name"        : "Md Minhaj",
+            "age"         : 50,
+            "skill"       : "Golan",
+            "location"    : "Majhina",
+            "income"      : "male",
+            "image"       : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2YEGob4PMuihndH9ISpQolZwUsN-lBUYkXCb53Cyz43ksl9-8DsmPZL2yGCOnq4WJiDE&usqp=CAU"
+        }
+    ]
+}

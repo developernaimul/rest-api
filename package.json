@@ -1,0 +1,22 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "API for developer",
+  "main": "index.js",
+  "scripts": {
+    "js": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismailhaque/rest-api.git"
+  },
+  "author": "md ismail haque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ismailhaque/rest-api/issues"
+  },
+  "homepage": "https://github.com/ismailhaque/rest-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
